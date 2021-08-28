@@ -1,0 +1,20 @@
+.navbar {
+    background-color: aqua;
+}
+.quem{
+    margin-top: 1%;
+    background-color: aquamarine;
+    align-items: center;
+    text-transform: uppercase;
+    text-align: center;
+}
+.trabalho{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: cadetblue;
+}
+.w-100{
+    align-content: unset;
+    width: 200px;;
+    height: 200px;;
+}
